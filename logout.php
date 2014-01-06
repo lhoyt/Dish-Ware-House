@@ -1,0 +1,1 @@
+<?phpsetcookie('member_id',"",time-1);setcookie('email',"",time-1);setcookie('password',"",time-1);header("Location:index.php");?>
